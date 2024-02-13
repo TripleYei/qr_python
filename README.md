@@ -1,18 +1,18 @@
 # qr_python
-Creación de código QR con pyQRCode
+Creación de código QR con pyQRCode.
 
-## Antest de instalar
+## Antest de instalar.
 
 ~~~~
 pip install pyqrcode
 pip install pypng
 ~~~~
 
-## Uso
+## Uso.
 
 ~~~~
 python qr.py
 ~~~~
 
-## Resultado
+## Resultado.
 <img src="QRCODE.png">
